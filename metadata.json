@@ -1,0 +1,8 @@
+{
+  "name": "Kumar Cakes N Bakes",
+  "description": "Professional bakery website for Kumar Cakes N Bakes in Karnal, featuring sliding banners, cake collection, gallery, Google My Business store views, and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
